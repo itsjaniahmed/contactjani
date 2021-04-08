@@ -43,7 +43,10 @@ form {
   padding: 37.5px;
   margin: 50px 0;
 }
-
+p{
+  margin: 50px 0px;
+  text-align: center;
+}
 h1 {
   color: #474544;
   font-size: 32px;
