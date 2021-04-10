@@ -228,6 +228,9 @@ textarea {
     font-size: 18px;
   }
 
+  form {
+    padding: 5px;
+  }
   .icon {
     height: 35px;
     width: 35px;
