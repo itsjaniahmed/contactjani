@@ -227,9 +227,10 @@ textarea {
   h1 {
     font-size: 18px;
   }
-
-  form {
-    padding: 5px;
+  #form_button {
+     padding: 10px 25px;
+  }  form {
+    padding: 8px;
   }
   .icon {
     height: 35px;
