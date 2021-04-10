@@ -188,8 +188,10 @@ textarea {
 
 @media screen and (max-width: 768px) {
   #container {
-    margin: 20px auto;
-    width: 95%;
+   margin: 0%;
+    width: 10%;
+    height: 100vh;
+
   }
 }
 
