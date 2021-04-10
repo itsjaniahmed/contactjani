@@ -188,9 +188,11 @@ textarea {
 
 @media screen and (max-width: 768px) {
   #container {
-    margin: 70px auto ;
-    width: 100%;
-    max-width: 90%;
+    margin: auto  ;
+
+    padding: 10px;
+    width: 95%;
+    max-width: 100%;
   }
 }
 
